@@ -1,7 +1,7 @@
 # HR Attrition Analytics
 ## By Alfa Isa Dewa
 
-![alt text](https://github.com/alfadewa58/Bank-Instagram-Performance-Analysis/blob/main/Screenshot%202025-01-20%20172632.png)
+![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/Screenshot%202025-01-21%20183226.png)
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIxMmY4YmMtZTg0Mi00YWVmLTk5ZGQtODQwNGJlNjU3ZDM4IiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D)
 
@@ -33,27 +33,12 @@ This project focuses on understanding and analyzing employee attrition in an org
 - HR Department
 - Senior Management
 
-## Usage
-1. Open the Jupyter Notebook file `hr_attrition_analytics.ipynb`.
-2. Follow the step-by-step instructions to analyze the data and build predictive models.
-3. Review the visualizations and insights provided for actionable recommendations.
-
-## Prerequisites
-- Python 3.x
-- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, etc.
-
 ## Installation
 1. Clone this repository.
 2. Install the required dependencies using:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Results
-The project delivers:
-- Key drivers of employee attrition.
-- A predictive model with metrics like accuracy, precision, and recall.
-- Visualization of trends in employee turnover.
 
 ## Conclusions (Shortened)
 **Strong Correlations**
