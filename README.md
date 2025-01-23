@@ -2,7 +2,12 @@
 ## By Alfa Isa Dewa
 
 ## Overview
-This project focuses on understanding and analyzing employee attrition in an organization. By leveraging data analytics, the goal is to identify key factors contributing to employee turnover and provide actionable insights to the HR department.
+This project is dedicated to understanding and analyzing the factors influencing employee attrition within an organization. By leveraging advanced data analytics techniques, we aim to uncover patterns and trends that contribute to employee turnover. The analysis focuses on identifying key drivers such as workload, job satisfaction, commuting challenges, and demographic factors. The ultimate objective is to provide actionable insights that can help the HR department develop targeted strategies to improve employee retention, enhance workplace satisfaction, and reduce overall turnover rates. This data-driven approach will enable the organization to make informed decisions that align with its long-term goals for workforce stability and productivity.
+
+## Stakeholders
+- HR Department
+- Senior Management
+
 
 ![Dashboard Preview](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/Screenshot%202025-01-21%20183226.png)
 
@@ -104,10 +109,6 @@ The data indicates that Total Working Years **does not have a significant correl
 ![CorrEdLevelVsAttrition](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/9%20-%20Corr%20Education%20Status%20vs%20Attrition.png)
 
 The analysis suggests that **education level does not significantly influence attrition rates**. Employees across different education levels exhibit similar turnover patterns, indicating that factors other than education may be more critical in determining attrition.
-
-## Stakeholders
-- HR Department
-- Senior Management
 
 
 ## Conclusions (Shortened)
