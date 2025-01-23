@@ -17,9 +17,10 @@ This project focuses on understanding and analyzing employee attrition in an org
 ## Performed Analysis
 - Plot a correlation map for all numeric variables.
 ![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
-- Job Level and Monthly Income: Higher job levels correspond to significantly higher salaries.
-- Years at Company and Years with Current Manager: Long-tenured employees tend to work under the same manager for extended periods.
-- Total Working Years and Monthly Income: More experienced employees earn higher salaries.
+Insights:
+   + Job Level and Monthly Income: Higher job levels correspond to significantly higher salaries.
+   + Years at Company and Years with Current Manager: Long-tenured employees tend to work under the same manager for extended periods.
+   + Total Working Years and Monthly Income: More experienced employees earn higher salaries.
 
 
 - Overtime.
