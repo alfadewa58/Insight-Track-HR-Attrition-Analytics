@@ -13,6 +13,8 @@ This project is dedicated to understanding and analyzing the factors influencing
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIxMmY4YmMtZTg0Mi00YWVmLTk5ZGQtODQwNGJlNjU3ZDM4IiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D)
 
+I create this dashboard using Power BI.
+
 ## Goals
 1. Analyze patterns and trends in employee attrition.
 2. Identify key factors and variables that contribute to employee turnover.
