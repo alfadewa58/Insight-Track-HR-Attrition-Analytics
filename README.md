@@ -45,7 +45,12 @@ Insights:
 Single employees have the highest attrition rate (25.5%), while divorced employees have the lowest (10.1%). Married employees show moderate stability (12.5%).
 
 ### 4. Job Role.
-- 
+![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/Screenshot%202025-01-23%20134551.png)
+
+**Insights:**
++ Sales Representatives and Laboratory Technicians show high turnover rates, indicating potential dissatisfaction or stress in these roles.
++ Research Directors and Managers have low attrition, suggesting higher satisfaction and job security.
+
 - Gender.
 - Education Field.
 - Department.
