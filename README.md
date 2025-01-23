@@ -8,14 +8,10 @@ This project is dedicated to understanding and analyzing the factors influencing
 - HR Department
 - Senior Management
 
-
+## Dashboard
 ![Dashboard Preview](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/Screenshot%202025-01-21%20183226.png)
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIxMmY4YmMtZTg0Mi00YWVmLTk5ZGQtODQwNGJlNjU3ZDM4IiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D)
-
-This company Attrition Distribution:
-
-![Dashboard Preview](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/0%20-%20Attr%20Distribution.png)
 
 ## Goals
 1. Analyze patterns and trends in employee attrition.
@@ -24,6 +20,11 @@ This company Attrition Distribution:
 4. Provide actionable recommendations for improving employee retention.
 
 ## Performed Analysis
+
+### Employee Attrition Distribution:
+
+![Dashboard Preview](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/0%20-%20Attr%20Distribution.png)
+
 ### 1. Plot a correlation map for all numeric variables.
 ![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
 Insights:
