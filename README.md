@@ -15,7 +15,7 @@ This project focuses on understanding and analyzing employee attrition in an org
 4. Provide actionable recommendations for improving employee retention.
 
 ## Performed Analysis
-- Plot a correlation map for all numeric variables.
+### Plot a correlation map for all numeric variables.
 ![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
 Insights:
    + Job Level and Monthly Income: Higher job levels correspond to significantly higher salaries.
