@@ -8,7 +8,7 @@
 ## Overview
 This project focuses on understanding and analyzing employee attrition in an organization. By leveraging data analytics and machine learning techniques, the goal is to identify key factors contributing to employee turnover and provide actionable insights to the HR department.
 
-![alt text](https://drive.google.com/file/d/1XCoTBUYfAGKQZFqoeW7n67qd5KYBzm1W/view?usp=sharing)
+![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
 
 ## Goals
 1. Analyze patterns and trends in employee attrition.
