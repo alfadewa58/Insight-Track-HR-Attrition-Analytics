@@ -1,11 +1,11 @@
 # HR Attrition Analytics
 ## By Alfa Isa Dewa
 
-![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/Screenshot%202025-01-21%20183226.png)
+![Dashboard Preview](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/Screenshot%202025-01-21%20183226.png)
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIxMmY4YmMtZTg0Mi00YWVmLTk5ZGQtODQwNGJlNjU3ZDM4IiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D)
 
-## - Overview
+## Overview
 This project focuses on understanding and analyzing employee attrition in an organization. By leveraging data analytics, the goal is to identify key factors contributing to employee turnover and provide actionable insights to the HR department.
 
 ## Goals
@@ -15,7 +15,7 @@ This project focuses on understanding and analyzing employee attrition in an org
 4. Provide actionable recommendations for improving employee retention.
 
 ## Performed Analysis
-### Plot a correlation map for all numeric variables.
+### 1. Plot a correlation map for all numeric variables.
 ![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
 Insights:
 **Strong Correlations:**
@@ -27,7 +27,13 @@ Insights:
     + Which suggests that as employees gain more work experience, they are likely to attain higher job levels.
 - Total Working Years and Monthly Income (0.77): 
     + Showing that employees with more experience tend to earn higher monthly incomes.
-### Overtime.
+
+### 2. Attrition by Overtime.
+![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/Overtime%20Attr.png)
+**Insights:**
+- Total employees working overtime: 416 out of 1,470 employees (approximately 28.3%) are working overtime. This indicates that a significant portion of the workforce is engaged in overtime, which could suggest **high workloads or a culture of extended working hours.**
+- Attrition among overtime employees: 30.5% of employees who work overtime have left the company. This is notably high and suggests that overtime work may be a contributing factor to employee **dissatisfaction or burnout.**
+- Attrition among non-overtime employees: In contrast, only 10.4% of employees who do not work overtime have left the company. This indicates a much lower turnover rate among those who maintain a **standard work schedule.**
 
 Insights:
 - Marital Status.
