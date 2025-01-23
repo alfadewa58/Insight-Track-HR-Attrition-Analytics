@@ -29,7 +29,8 @@ Insights:
     + Showing that employees with more experience tend to earn higher monthly incomes.
 
 ### 2. Attrition by Overtime.
-![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/2.%20Attr%20Rates%20by%20Overtime.png)
+![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/Screenshot%202025-01-23%20123656.png)
+
 **Insights:**
 - Total employees working overtime: 416 out of 1,470 employees (approximately 28.3%) are working overtime. This indicates that a significant portion of the workforce is engaged in overtime, which could suggest **high workloads or a culture of extended working hours.**
 - Attrition among overtime employees: 30.5% of employees who work overtime have left the company. This is notably high and suggests that overtime work may be a contributing factor to employee **dissatisfaction or burnout.**
