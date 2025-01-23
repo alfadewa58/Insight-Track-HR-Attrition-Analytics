@@ -6,9 +6,7 @@
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIxMmY4YmMtZTg0Mi00YWVmLTk5ZGQtODQwNGJlNjU3ZDM4IiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D)
 
 ## Overview
-This project focuses on understanding and analyzing employee attrition in an organization. By leveraging data analytics and machine learning techniques, the goal is to identify key factors contributing to employee turnover and provide actionable insights to the HR department.
-
-![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
+This project focuses on understanding and analyzing employee attrition in an organization. By leveraging data analytics, the goal is to identify key factors contributing to employee turnover and provide actionable insights to the HR department.
 
 ## Goals
 1. Analyze patterns and trends in employee attrition.
@@ -18,6 +16,12 @@ This project focuses on understanding and analyzing employee attrition in an org
 
 ## Performed Analysis
 - Plot a correlation map for all numeric variables.
+![alt text](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/heatmap.png)
+- Job Level and Monthly Income: Higher job levels correspond to significantly higher salaries.
+- Years at Company and Years with Current Manager: Long-tenured employees tend to work under the same manager for extended periods.
+- Total Working Years and Monthly Income: More experienced employees earn higher salaries.
+
+
 - Overtime.
 - Marital Status.
 - Job Role.
