@@ -35,11 +35,11 @@ Insights:
 - Total employees working overtime: 416 out of 1,470 employees (approximately 28.3%) are working overtime. This indicates that a significant portion of the workforce is engaged in overtime, which could suggest **high workloads or a culture of extended working hours.**
 - Attrition among overtime employees: 30.5% of employees who work overtime have left the company. This is notably high and suggests that overtime work may be a contributing factor to employee **dissatisfaction or burnout.**
 - Attrition among non-overtime employees: In contrast, only 10.4% of employees who do not work overtime have left the company. This indicates a much lower turnover rate among those who maintain a **standard work schedule.**
-https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/3.%20Attr%20Rates%20by%20Marital%20Status.png
+
 
 
 ### 3. Marital Status.
-![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/Screenshot%202025-01-23%20123656.png)
+![AttrbyOvertime](https://github.com/alfadewa58/Insight-Track-HR-Attrition-Analytics/blob/main/assets/3.%20Attr%20Rates%20by%20Marital%20Status.png)
 
 **Insights:**
 Single employees have the highest attrition rate (25.5%), while divorced employees have the lowest (10.1%). Married employees show moderate stability (12.5%).
